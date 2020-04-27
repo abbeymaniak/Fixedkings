@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Fixedkings/static/css/main.08a1df0f.chunk.css",
+    "main.js": "/Fixedkings/static/js/main.9c61edf9.chunk.js",
+    "main.js.map": "/Fixedkings/static/js/main.9c61edf9.chunk.js.map",
+    "runtime-main.js": "/Fixedkings/static/js/runtime-main.a342bdab.js",
+    "runtime-main.js.map": "/Fixedkings/static/js/runtime-main.a342bdab.js.map",
+    "static/css/2.036b41f9.chunk.css": "/Fixedkings/static/css/2.036b41f9.chunk.css",
+    "static/js/2.0f1f1c22.chunk.js": "/Fixedkings/static/js/2.0f1f1c22.chunk.js",
+    "static/js/2.0f1f1c22.chunk.js.map": "/Fixedkings/static/js/2.0f1f1c22.chunk.js.map",
+    "index.html": "/Fixedkings/index.html",
+    "precache-manifest.a4ca43b03856d1d3ea307ffd08134135.js": "/Fixedkings/precache-manifest.a4ca43b03856d1d3ea307ffd08134135.js",
+    "service-worker.js": "/Fixedkings/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/Fixedkings/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.08a1df0f.chunk.css.map": "/Fixedkings/static/css/main.08a1df0f.chunk.css.map",
+    "static/js/2.0f1f1c22.chunk.js.LICENSE.txt": "/Fixedkings/static/js/2.0f1f1c22.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Fixedkings/static/media/SEGA.12a3db8b.woff",
+    "static/media/barca.png": "/Fixedkings/static/media/barca.bb0959e6.png",
+    "static/media/chelsea.png": "/Fixedkings/static/media/chelsea.d854acff.png",
+    "static/media/manu.png": "/Fixedkings/static/media/manu.aaa70615.png",
+    "static/media/real.png": "/Fixedkings/static/media/real.f04c74af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a342bdab.js",
+    "static/css/2.036b41f9.chunk.css",
+    "static/js/2.0f1f1c22.chunk.js",
+    "static/css/main.08a1df0f.chunk.css",
+    "static/js/main.9c61edf9.chunk.js"
+  ]
+}
